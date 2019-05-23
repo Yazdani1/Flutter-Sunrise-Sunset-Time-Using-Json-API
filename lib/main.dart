@@ -52,7 +52,6 @@ void main() async{
                       ),
                       ),
                     ),
-                    
                     new SizedBox(height: 10.0,),
                     
                     new Text("Sunset Time:"+ data['results']['sunset'],
