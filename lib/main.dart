@@ -68,7 +68,6 @@ void main() async{
                       color: Colors.white
                     ),
                     )
-
                   ],
                 ),
               ),
